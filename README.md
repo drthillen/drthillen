@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drthillen
 - 👀 I’m interested in Computer Systems, Networks, Machine Learning & Economics.
-- 🌱 I’m currently learning Computer Science at ETH Zurich
+- 🌱 I’m currently studying Computer Science at ETH Zurich
 - 📫 How to reach me, write to alexthillen852@gmail.com
 
 <!---
